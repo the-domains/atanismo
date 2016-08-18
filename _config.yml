@@ -6,9 +6,9 @@ color:
   saturation: 0.5611053600441664
   rhythmicContrast: 0.6941118401009589
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#060608'
+    - '#767676'
+    - '#A6A6A6'
+    - '#F60000'
+    - '#D3D3D3'
 name: Atanismo
