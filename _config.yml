@@ -12,3 +12,5 @@ color:
     - '#F60000'
     - '#D3D3D3'
 name: Atanismo
+content_rating:
+  adult: true
